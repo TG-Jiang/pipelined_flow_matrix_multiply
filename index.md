@@ -89,7 +89,7 @@ We present waveform examples for 23 selected cases where N×M ≤ 15, and an add
 ![Case 2](imgs/5-3.jpg)
 
 ## N=5, M=3 (Matlab verification) 
-![Case 2](imgs/5-3Matlab.jpg)
+![Case 2](imgs/5_3Matlab.jpg)
 
 ## N=5 and M>=4 are not used because the testbench matrix supports up to 15 elements (N*M ≤ 15)
 ## case N=6 to 14 and M=1 are omitted for page limite
