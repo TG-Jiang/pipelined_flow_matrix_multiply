@@ -1,5 +1,5 @@
 # Waveform of fully pipelined matrix multiplication A(N×M) × B(M×N) = C(N×N).
-We present waveform examples for 23 selected cases where N×M ≤ 15.
+We present waveform examples for 23 selected cases where N×M ≤ 15, and an additional Matlab verification Figure when N=5 and M=3.
 
 ## Case 1: N=1, M=1
 ![Case 1](imgs/1-1.jpg)
@@ -87,6 +87,9 @@ We present waveform examples for 23 selected cases where N×M ≤ 15.
 
 ## Case 23: N=5, M=3
 ![Case 2](imgs/5-3.jpg)
+
+## N=5, M=3 (Matlab verification) 
+![Case 2](imgs/5-3Matlab.jpg)
 
 ## N=5 and M>=4 are not used because the testbench matrix supports up to 15 elements (N*M ≤ 15)
 ## case N=6 to 14 and M=1 are omitted for page limite
