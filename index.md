@@ -1,5 +1,4 @@
 # Waveform of fully pipelined matrix multiplication A(N×M) × B(M×N) = C(N×N).
-
 We present waveform examples for 23 selected cases where N×M ≤ 15.
 
 ## Case 1: N=1, M=1
